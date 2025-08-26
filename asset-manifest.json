@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-theme-switcher/static/css/main.de7b8e37.css",
+    "main.js": "/react-theme-switcher/static/js/main.5731148f.js",
+    "static/js/453.09f8b460.chunk.js": "/react-theme-switcher/static/js/453.09f8b460.chunk.js",
+    "index.html": "/react-theme-switcher/index.html",
+    "main.de7b8e37.css.map": "/react-theme-switcher/static/css/main.de7b8e37.css.map",
+    "main.5731148f.js.map": "/react-theme-switcher/static/js/main.5731148f.js.map",
+    "453.09f8b460.chunk.js.map": "/react-theme-switcher/static/js/453.09f8b460.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de7b8e37.css",
+    "static/js/main.5731148f.js"
+  ]
+}
